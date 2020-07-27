@@ -1,37 +1,136 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>廖建維</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
 
-I can use the [editor on GitHub](https://github.com/hsflska/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="inner">
+					<h1>廖建維-j.w.liao</h1>
+					<p>這是關於我的 <a href="https://templated.co">個人簡歷網站</a></p>
+				</div>
+			</header>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-### Markdown
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<span class="icon fa-diamond major"></span>
+						<h2>個人資訊</h2>
+						<p>我的身高184公分，生日是03月29號，星座:牧羊座<br />
+						興趣：喝咖啡，爬山，桌遊，打羽球和看電影<br />
+						目前最喜歡的一句話：所有傷心的文字堆成了山，也買不起一棟快樂的房子。</p>
+						
+					</section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Items -->
+					<section class="main items">
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic01.jpg" alt="" /></a>
+								<h3>過去</h3>
+							</header>
+							<p> 我畢業於彰化大葉大學資訊工程系</p>
+							<ul class="actions">
+								<li><a href="#" class="button">自傳</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic02.jpg" alt="" /></a>
+								<h3>現在</h3>
+							</header>
+							<p>現在就讀勤益科技大學碩班</p>
+							<ul class="actions">
+								<li><a href="#" class="button">研究成果</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic03.jpg" alt="" /></a>
+								<h3>未來</h3>
+							</header>
+							<p>未來館尚未完成</p>
+							<div class="col-md-2">
+   							    <div class="team-container wow bounceIn" data-wow-delay="0.5s">
+         						   	 <div class="team-item">
+             							      <div class="team-triangle">
+                						    	  <div class="content">
+                       							       <div class="team-hover text-center">
+                           							    <i class="fa fa-male"></i>
+                           							    <p>準備中</p>
+                      							        </div>
+                 						          </div>
+             							      </div>
+         						          </div>
+     							     </div>
+							</div>
+						</article>
+						<article class="item">
+							<header>
+								<a href="#"><img src="images/pic04.jpg" alt="" /></a>
+								<h3>照片集</h3>
+							</header>
+							<p>照片館整修中</p>
+							<div class="col-md-2">
+   							    <div class="team-container wow bounceIn" data-wow-delay="0.5s">
+         						   	 <div class="team-item">
+             							      <div class="team-triangle">
+                						    	  <div class="content">
+                       							       <div class="team-hover text-center">
+                           							    <i class="fa fa-male"></i>
+                           							    <p>準備中</p>
+                      							        </div>
+                 						          </div>
+             							      </div>
+         						          </div>
+     							     </div>
+							</div>
+						</article>
+					</section>
 
-```markdown
-Syntax highlighted code block
+				<!-- CTA -->
+					<section id="cta" class="main special">
+						<h2>聯絡我</h2>
+						<p>我的電話：0915-185538<br />
+						信箱：p880348@.gmail.com<br />
+						或者LINE找我也可以<br />
+						<ul class="actions">
+							<li><a href="#" class="button big">回到上面</a></li>
+						</ul>
+					</section>
 
-# Header 1
-## Header 2
-### Header 3
+				<!-- Main -->
+				<!--
+					<section id="main" class="main">
+						<header>
+							<h2>Lorem ipsum dolor</h2>
+						</header>
+						<p>Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus non ornare. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+					</section>
+				-->
 
-- Bulleted
-- List
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="https://www.facebook.com/profile.php?id=100009812440718"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/j.w.liao/?hl=zh-tw"><span class="label">Instagram</span></a></li>
+						</ul>
+						<p class="copyright">&copy; Untitled. Design: <a href="https://templated.co">廖建維簡歷網站</a>. </p>
+					</footer>
 
-1. Numbered
-2. List
+			</div>
 
-**Bold** and _Italic_ and `Code` text
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hsflska/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
